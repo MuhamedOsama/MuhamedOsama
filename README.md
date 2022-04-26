@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fullstack Engineer @ adam.ai</h1>
-<h3 align="center">A Curious about all technologies type of developer.</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Osama.</h1>
+<h3 align="center">I'm an Egyptian Fullstack Engineer, I'm Curious about all technologies.</h3>
+<h3 align="center">I currently a .Net Core Backend Engineer @ <a href="https://github.com/adamdotai">adam.ai</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mido5219&label=Profile%20views&color=0e75b6&style=flat" alt="mido5219" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 📫 How to reach me **mohamed.o.hassan98@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohammed-o](https://www.linkedin.com/in/mohammed-o)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/mohammed-o)
 
 - ⚡ Fun fact **I love suits**
 
