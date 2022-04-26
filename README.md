@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mido5219&label=Profile%20views&color=0e75b6&style=flat" alt="mido5219" /> </p>
 
-- 💬 Ask me about **.Net Core, Vuejs, AWS, ReactJs,Design Patterns, Microservices Design Patterns**
+- 💬 Ask me about **.Net Core, Vuejs, AWS, ReactJs, Design Patterns, Microservices Design Patterns**
 
 - 📫 How to reach me **mohamed.o.hassan98@outlook.com**
 
