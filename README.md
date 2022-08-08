@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osama.</h1>
 <h3 align="center">I'm an Egyptian Fullstack Engineer, I'm Curious about all technologies.</h3>
-<h3 align="center">I'm currently working as a Backend Engineer @ <a href="https://github.com/adamdotai">adam.ai</a></h3>
+<h3 align="center">I'm currently working as a Backend Engineer @ <a href="https://www.linkedin.com/company/adamdotai">adam.ai</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mido5219&label=Profile%20views&color=0e75b6&style=flat" alt="mido5219" /> </p>
 
