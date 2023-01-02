@@ -2,7 +2,7 @@
 <h3 align="center">I'm an Egyptian Fullstack Engineer, I'm Curious about all technologies.</h3>
 <h3 align="center">I'm currently working as a Backend Engineer @ <a href="https://www.linkedin.com/company/adamdotai">adam.ai</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mido5219&label=Profile%20views&color=0e75b6&style=flat" alt="mido5219" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhamedOsama&label=Profile%20views&color=0e75b6&style=flat" alt="MuhamedOsama" /> </p>
 
 - 💬 Ask me about **.Net Core, Vuejs, AWS, ReactJs, Design Patterns, Microservices Design Patterns**
 
@@ -18,9 +18,9 @@
 <a href="https://www.behance.net/bin98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bin98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamed98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed98" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mido5219&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="mido5219" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhamedOsama&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="MuhamedOsama" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mido5219&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Mohamed's's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MuhamedOsama&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Mohamed's's github stats" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
