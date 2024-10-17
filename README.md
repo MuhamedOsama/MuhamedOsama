@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osama.</h1>
-<h3 align="center">I'm an Egyptian Fullstack Engineer, I'm Curious about all technologies.</h3>
+<h3 align="center">I'm an Egyptian Senior Backend Engineer, But I'm Actually Curious about all technologies.</h3>
 <h3 align="center">I'm currently working as a Backend Engineer @ <a href="https://www.linkedin.com/company/adamdotai">adam.ai</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhamedOsama&label=Profile%20views&color=0e75b6&style=flat" alt="MuhamedOsama" /> </p>
